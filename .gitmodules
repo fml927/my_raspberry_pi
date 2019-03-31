@@ -1,0 +1,3 @@
+[submodule "my_machine_vision"]
+	path = my_machine_vision
+	url = https://github.com/fml927/my_machine_vision.git
